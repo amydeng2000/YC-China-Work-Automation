@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4a1ae19-7077-46a9-8891-af292d7fbedd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fRqYQ9hHxiZYocagVIMeeozFGk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../profDatabase" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Python.labeling">
+    <configuration name="labeling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PR_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labeling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leetcode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PR_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.labeling" />
+        <item itemvalue="Python.leetcode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4a1ae19-7077-46a9-8891-af292d7fbedd" name="Default Changelist" comment="" />
+      <created>1596191299580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596191299580</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="234" y="0" key="#Inspections" timestamp="1596191494315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="234" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1596191494315" />
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596191512657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596191512657" />
+    <state x="422" y="97" key="FileChooserDialogImpl" timestamp="1598776852135">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598776852135" />
+    <state width="1237" height="74" key="GridCell.Tab.0.bottom" timestamp="1598777090930">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="74" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598777090930" />
+    <state width="1237" height="74" key="GridCell.Tab.0.center" timestamp="1598777090930">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="74" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598777090930" />
+    <state width="1237" height="74" key="GridCell.Tab.0.left" timestamp="1598777090930">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="74" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598777090930" />
+    <state width="1237" height="74" key="GridCell.Tab.0.right" timestamp="1598777090930">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="74" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598777090930" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1597721422979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597721422979" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1597721422979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1597721422979" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1597721422979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1597721422979" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1597721422979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1597721422979" />
+    <state width="1237" height="204" key="GridCell.Tab.2.bottom" timestamp="1597721422980">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597721422980" />
+    <state width="1237" height="204" key="GridCell.Tab.2.center" timestamp="1597721422980">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1597721422980" />
+    <state width="1237" height="204" key="GridCell.Tab.2.left" timestamp="1597721422980">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1597721422980" />
+    <state width="1237" height="204" key="GridCell.Tab.2.right" timestamp="1597721422980">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1597721422980" />
+    <state x="313" y="41" key="NewModule_or_Project.wizard" timestamp="1597291746813">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="313" y="41" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1597291746813" />
+    <state x="122" y="0" key="SettingsEditor" timestamp="1596191509060">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="122" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1596191509060" />
+    <state x="338" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1597909383547">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="338" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1597909383547" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1597913020887">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1597913020887" />
+  </component>
+</project>
