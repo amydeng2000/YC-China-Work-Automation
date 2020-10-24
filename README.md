@@ -7,7 +7,7 @@ Code I wrote to automate MiraclePlus' (prev. YC China) workflow
 * **Deployment:** This program is now used by the PR team to label 2400+ entries
 
 
-### Web Crawling & OCR
+### Web Crawling & Image to Text
 * **Context:** MiraclePlus sources extensively from top universities and research institutions in China. We find it very effective to cold email professors and team leads who would have startup projects that qualifies for the incubator. Therefore, we need to scrape researchers emails from the internet in large amounts. This is a web crawler I wrote that scraped 1200+ emails from www.aminer.cn. Since the emails on the website is shown as pictures, OCR is used to read those images to text. 
 * **Design:** Inspecting the website shows that the return data is not structured, and the website doesn't allow direct requests. Therefore, I chose to use Selenium to simulate the browser activity and store each researchers' name, institution, and their email to local. Since the email is given as images on the website, I used pytesseract to convert the image to text. 
 * **Deployment:** This script helped to scrape 1200+ emails
