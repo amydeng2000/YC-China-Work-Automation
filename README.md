@@ -10,7 +10,13 @@ Code I wrote to automate MiraclePlus' (prev. YC China) workflow
 ### Web Crawling & Image to Text
 * **Context:** MiraclePlus sources extensively from top universities and research institutions in China. We find it very effective to cold email professors and team leads who would have startup projects that qualifies for the incubator. Therefore, we need to scrape researchers emails from the internet in large amounts. This is a web crawler I wrote that scraped 1200+ emails from www.aminer.cn. Since the emails on the website is shown as pictures, OCR is used to read those images to text. 
 * **Design:** Inspecting the website shows that the return data is not structured, and the website doesn't allow direct requests. Therefore, I chose to use Selenium to simulate the browser activity and store each researchers' name, institution, and their email to local. Since the email is given as images on the website, I used pytesseract to convert the image to text. 
-* **Deployment:** This script helped to scrape 1200+ emails
+* **Deployment:** This script helped to scrape 1200+ emails and brought in 15+ potential deals
+
+The emails scrape are in .png files and are stored in a folder, labeled with the researcher's ID and the sequence of it being stored.
+![Scraped Emails](/images/saved_emails.jpg)
+
+Turning images with a small width and height poses a challenge towards turning image into text percisely. I used resizing and image thresholding to increase the percision, but find it impossible for the pysseract to recognize the "@" symbol correctly. So the raw output has "B" instead of "@" and simple string manipulation was required to get the actual email address.
+![Scraped Emails](/images/output.jpg)
 
 
 ### Professor Database & Email Automation
